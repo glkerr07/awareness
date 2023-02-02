@@ -8,6 +8,7 @@ export const NavBarTitle = styled.div`
     justify-content: space-around;
     text-decoration: none;
     padding: 1rem;
+    
 `
 
 export const StyledLink = styled(Link)`
